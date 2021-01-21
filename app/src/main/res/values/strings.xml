@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Books Recommendation</string>
+    <string name="exploring_book">Exploring Books</string>
+    <string name="slogan">Find a book to read this week</string>
+    <string name="about">About</string>
+    <string name="us">Us</string>
+    <string name="slogan2">Explore the Knowledge</string>
+    <string name="description">We are passionate about the written word and seek to share our love of reading  to help create  and sustain a community of lifelong readers.</string>
+    <string name="out">Our</string>
+    <string name="services">Services</string>
+    <string name="service1">Recommendations</string>
+    <string name="service2">Different Categories</string>
+    <string name="service3">Books Rating</string>
+    <string name="address">ANDREA GARCIA <br/> APARTMENT 2 <br/> 47 ANYTOWN RUE <br/> 01234 ANYVILLE <br/> FRANCE</string>
+    <string name="post">info@booksrecommendatio.ch</string>
+    <string name="content_description1">this is the header</string>
+    <string name="content_description2">this is the second header</string>
+    <string name="content_description3">this is the book icon</string>
+    <string name="content_description4">this is the category icon</string>
+    <string name="content_description6">this is the location icon</string>
+    <string name="content_description7">this is the post icon</string>
+    <string name="content_description8">this is the facebook icon</string>
+    <string name="social">Social</string>
+    <string name="media">media</string>
+    <string name="contact">contact</string>
+
+
+
+</resources>
